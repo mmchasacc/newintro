@@ -1,7 +1,7 @@
 print("hello world")
 
 
-seq = "Orange Duck is"
+seq = "The Orange duck is"
 uen = " Crowned"
 ce = " Sad"
 
